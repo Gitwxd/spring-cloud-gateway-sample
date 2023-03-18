@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.net.Socket;
 
 /**
- * @author wangxiaodong <wangxiaodong05@kuaishou.com>
+ * @author wangxiaodong
  * Created on 2023-03-17
  */
 public class ServerFileThread extends Thread {

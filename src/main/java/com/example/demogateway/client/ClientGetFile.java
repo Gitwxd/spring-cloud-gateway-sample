@@ -6,7 +6,7 @@ import java.io.FileOutputStream;
 import java.net.Socket;
 
 /**
- * @author wangxiaodong <wangxiaodong05@kuaishou.com>
+ * @author wangxiaodong
  * Created on 2023-03-17
  */
 public class ClientGetFile extends Thread {

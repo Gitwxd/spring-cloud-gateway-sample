@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author wangxiaodong <wangxiaodong05@kuaishou.com>
+ * @author wangxiaodong
  * Created on 2023-03-17
  */
 public class Server {
